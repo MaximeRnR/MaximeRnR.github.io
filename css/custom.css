@@ -1,0 +1,28 @@
+
+
+.highlight pre code{
+    font-size: 12px;
+    overflow: auto;
+}
+
+article.mw8 {
+    max-width: 75rem;
+}
+
+article.mw8 h1 {
+    font-family: helvetica neue, helvetica, sans-serif;
+}
+
+.tags-layout {
+    max-width: 80%;
+    font-size: 14px;
+}
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tags li {
+    margin-right: 8px;
+    font-size: 12px;
+}

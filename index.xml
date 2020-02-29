@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maxime Rnr</title>
+    <link>https://maximernr.github.io/</link>
+    <description>Recent content on Maxime Rnr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 22 Feb 2020 13:21:58 +0100</lastBuildDate>
+    
+	<atom:link href="https://maximernr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les Katas, c&#39;est marrant.</title>
+      <link>https://maximernr.github.io/blog/katamarrant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximernr.github.io/blog/katamarrant/</guid>
+      <description>Dans le monde du développement, il est important de s&amp;rsquo;entraîner régulièrement pour apprendre ou confirmer des compétences, que ce soit sur un aspect du métier de développeur ou sur un langage. La plupart du temps, il n’est pas facile de s&amp;rsquo;entraîner sur les projets de développement sur lesquels on travaille. C&amp;rsquo;est pourquoi il est intéressant de s&amp;rsquo;entrainer sur des exercices de plus petites tailles sur des domaines plus précis, que l&amp;rsquo;on appelle des Kata.</description>
+    </item>
+    
+  </channel>
+</rss>
